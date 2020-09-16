@@ -1,0 +1,71 @@
+Ponto 1 OK: Condição de equilíbrio
+Erro no ponto 2: perturbação em V
+
+esperado =
+
+    -0.022931
+    -0.004377
+     0.011204
+            0
+
+
+obtido =
+
+    -0.022931
+   -0.0042995
+     0.011006
+            0
+
+Erro no ponto 3: perturbação em alfa
+
+esperado =
+
+     -0.44373
+    -0.036646
+     -0.23916
+            0
+
+
+obtido =
+
+     -0.44373
+    -0.035998
+     -0.24079
+            0
+
+Erro no ponto 4: perturbação em q
+
+esperado =
+
+  -1.3443e-12
+      0.25875
+      -1.7789
+       0.2618
+
+
+obtido =
+
+  -1.3443e-12
+      0.25417
+      -1.7673
+       0.2618
+
+Ponto 5 OK: perturbação em theta
+Erro no ponto 6: perturbação no profundor
+
+esperado =
+
+  -1.3443e-12
+   -0.0035515
+     -0.59796
+            0
+
+
+obtido =
+
+  -1.3443e-12
+   -0.0034887
+     -0.59812
+            0
+
+Ponto 7 OK: perturbação em T
